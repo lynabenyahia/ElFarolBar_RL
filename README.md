@@ -11,7 +11,7 @@ ddpg.py: Implements the DDPG agent.
 elfarol_env.py: Defines the El Farol bar environment.  
 trainer.py: Script for training the agent in the El Farol environment.
 
-### Installation
+### This code works ! You can try it.
 - To run this project, you will need Python and a few specific libraries. You can install the dependencies via pip:  
 pip install tensorflow numpy gymnasium pettingzoo matplotlib
 
