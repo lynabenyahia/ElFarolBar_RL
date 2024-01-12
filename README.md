@@ -4,7 +4,7 @@
 This project implements a reinforcement learning agent using the Deep Deterministic Policy Gradient (DDPG) algorithm to solve the El Farol bar problem. The objective is to develop an agent capable of deciding whether to go to the bar based on expected crowds.
 
 ### Acknowledgments
-This implementation was inspired by Duy Minh Le's DDPG code on Kaggle (www.kaggle.com/code/duyminhle/deep-deterministic-policy-gradients-ddpg). Additionally, the other scripts in this project were inspired by Mr. Muller's implementation of the Tic Tac Toe game, as well as codes from my colleagues. ChatGPT also provided some assistance in developing the trainer.py script.
+This implementation was inspired by Duy Minh Le's DDPG code on Kaggle (www.kaggle.com/code/duyminhle/deep-deterministic-policy-gradients-ddpg). Additionally, the other scripts in this project were inspired by Mr. Muller's implementation of the Tic Tac Toe game, as well as codes from my colleagues that were shared in the Moodle forum. ChatGPT also provided some assistance in developing the trainer.py script.
 
 ### Project structure
 ddpg.py: Implements the DDPG agent.  
